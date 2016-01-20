@@ -1,0 +1,5 @@
+square cuadrado side:10 color:rojo x:2 y:4
+triangle triangulo base:3 height:2 color:amarillo
+circle circulo radius:10
+move circulo x:5 y:6
+color triangulo color:verde
